@@ -8,5 +8,7 @@ public class ReactSpringDataRestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ReactSpringDataRestApplication.class, args);
+		
+		
 	}
 }
